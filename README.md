@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 My name is Daisy, I'm currently a Master student @NEU
+🎓 My name is Daisy, I'm currently a MSCS student @NEU
 
 🚀 I have a strong interest in Web Development and Machine Learning
 
